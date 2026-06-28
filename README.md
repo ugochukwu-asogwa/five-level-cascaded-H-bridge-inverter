@@ -79,23 +79,11 @@ The simulation includes:
 
 ## Modulating Signal
 
-> Insert the sine wave modulating signal.
-
-```text
-images/sine-wave.png
-```
-
 ![Sine Wave](results/sine-wave.png)
 
 ---
 
 ## Triangular Carrier Signal
-
-> Insert the triangular carrier waveform.
-
-```text
-images/triangular-wave.png
-```
 
 ![Triangular Wave](results/triangular-wave.png)
 
@@ -110,12 +98,6 @@ images/triangular-wave.png
 ---
 
 ## Overall Signal Modulation
-
-> Insert the overall modulation waveform.
-
-```text
-images/overall-modulation.png
-```
 
 ![Overall Modulation](results/overall-modulation.png)
 
